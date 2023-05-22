@@ -9,15 +9,8 @@
 
 
 
-
-
-
 # 22 - Crie um algoritmo que ao ser executado receba dois números de um usuário
 # e imprima o resultado da soma entre esses dois números
-
-
-
-
 
 
 
@@ -26,21 +19,13 @@
 
 
 
-
-
-
-
 # 24 - Crie um algoritmo que ao ser executado receba dois números de um usuário
 # e imprima o resultado da multiplicação entre esses dois números
 
 
 
-
-
-
 # 25 - Crie um algoritmo que ao ser executado receba dois números de um usuário
 # e imprima o resultado da divisão entre esses dois números
-
 
 
 
@@ -59,8 +44,6 @@
 
 
 
-
-
 # 28 - Desafio: Crie um algoritmo que recebe dois valores númericos e qual operação 
 # o usuário deseja realizar e realize essa operação. Por exemplo:
 # O usuário forneceu as seguintes entradas: 4, 5, multiplicação.
@@ -73,6 +56,7 @@
 # coloca um espaço quando ele digita um número. Ex: Se ele digita 4, que o chega para nós é: "4 "
 # Isso fará com que, mesmo que ele tenha digitado um número, ele não consiga realizar a operação.
 # Como prevenir/corrigir esse erro?
+
 
 # 30 - Desafio: Crie um algoritmo que rece
 # o nome, idade, a fruta favorita e se o usuário é ou não aluno da Infinity School.

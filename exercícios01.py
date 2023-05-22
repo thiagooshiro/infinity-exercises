@@ -1,5 +1,5 @@
 # Exercícios - Lógica de programação em Python
-
+# Arquivo 1.1 é a referência
 # Fundamentos:
 
 # 1 - Crie um algoritmo que ao ser ao ser executado exiba a mensagem "Olá Mundo" na tela(terminal)
