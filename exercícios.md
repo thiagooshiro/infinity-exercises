@@ -3,11 +3,17 @@
 Bem vindos à nossa lista de exercícios. Esses exercícios foram pensados com o 
 maior cuidado e bom humor, para que vocês tenham a oportunidade de praticar bastante e desenvolver a "musculatura" lógica necessária para se tornarem programadores de primeira!
 
-A estrutura dos exercícios é: 
+### A estrutura dos exercícios é: 
 
 - Os exercícios aumentam de grau de dificuldade de forma progressiva
 - As instruções são comentários no arquivo
 - A numeração dos exercícios é progressiva
+- A palavra "recebe" na descrição do exercício indica que é necessário utilizar o método input()
+    
+####    Exemplo:
+    # 14 - Crie um algoritmo que recebe...
+
+
 - Cada arquivo possui desafios próprios separados por tema, exemplo:
 
 

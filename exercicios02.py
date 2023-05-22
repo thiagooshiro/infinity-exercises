@@ -51,11 +51,11 @@
 
 
 
-#27 - Crie um algoritmo que ao sr executado receba um número (através de um input) e armaezene essa informação numa variável.
-# - Escreva em algum lugar qual tipo é o tipo dessa variável criada
+#27 - Crie um algoritmo que ao ser executado receba um número (através de um input) e armazene essa informação numa variável.
+# - Qual é o tipo de variável que será retornado? (Só pense)
 # - Imprima o valor do tipo dessa variável no terminal.
-# - Compare sua resposta com o resultado, foi o mesmo? Foi diferente? E se foi diferente, por que você acha que foi diferente?
-
+# - Compare sua resposta com o resultado, foi o mesmo? 
+# Foi diferente? E se foi diferente, por que você acha que foi diferente?
 
 
 
@@ -67,3 +67,18 @@
 # Ele deseja multiplicar 4 e 5 e ser informado do resultado.
 # Mas numa próxima execução do programa talvez ele queira utilizar outros valores
 # ou fazer outra operação... e aí, como fazer? 
+
+
+# 29 - Desafio: Considere o desafio 28, imagine que o teclado de um usuário sempre 
+# coloca um espaço quando ele digita um número. Ex: Se ele digita 4, que o chega para nós é: "4 "
+# Isso fará com que, mesmo que ele tenha digitado um número, ele não consiga realizar a operação.
+# Como prevenir/corrigir esse erro?
+
+# 30 - Desafio: Crie um algoritmo que rece
+# o nome, idade, a fruta favorita e se o usuário é ou não aluno da Infinity School.
+# Imprima os valores no seguindo o exemplo:
+# Se as informações forem: "João", 34, "banana", as informações devem aparecer dessa forma no terminal:
+# Nome: João
+# Idade: 34
+# Fruta favorita: banana
+# Aluno Infinty: Sim  
