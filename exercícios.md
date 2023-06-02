@@ -41,8 +41,6 @@ você pode aguardar para que esse assunto seja abordado na aula... ou, se você 
 
 Importante lembrar que pesquisa é uma habilidade fundamental para nós programadores, porém a pesquisa não dispensa a aula. =)
 
-Existe um arquivo de gabarito mas nós pedimos que só usem se absolutamente necessário ou para comparar a resolução que vocês fizeram com a que sugerimos.
-
 Há muitas formas de se resolver o mesmo problema e isso é um aspecto muito gostoso da nossa área.
 
 Se divirtam, codem bastente e qualquer dúvida, sugestões e feedbacks

@@ -54,4 +54,19 @@
 # 3 x 10 = 30
 
 
-# 7 - 
+# 7 - Crie um algoritmo que ao receber duas listas:
+# cliente = ["João", "Daniel", "Larissa", "Mariana", "Julia", "Luana", "Gustavo", "Luiz"]
+# produto = ["molho de tomate", "cenoura", "macarrão", "salame", "lâmpada", "água sanitária", "refrigerante", "suco"]
+# Imprima os valores no seguinte formato:
+# O cliente {cliente} comprou este produto: {produto}
+
+
+# 8 - Crie um algoritmo que receba 7 nomes de usuário e ao final imprima cada um dos nomes em ordem alfabética.
+
+# 9 - Crie um algoritmo para que o usuário possa selecionar uma das três opções: "pedra", "papel", "tesoura"
+# imprima a opção escolhida pelo usuário.
+
+# 10 - Crie um algorimto que ao receber uma lista de números imprime o somatório dos números da lista.
+
+# 11 - Crie um algoritmo que ao receber um nome imprime separadamente cada letra do nome.
+
