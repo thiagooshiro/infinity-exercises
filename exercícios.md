@@ -29,8 +29,8 @@ maior cuidado e bom humor, para que vocês tenham a oportunidade de praticar bas
 ### Outras temáticas que estão incluídas nesse pacote de exercícios:
 - Input
 - Condicionais
-- Laços de Repetição
 - Listas
+- Laços de Repetição
 
 #
 ## Observações:
